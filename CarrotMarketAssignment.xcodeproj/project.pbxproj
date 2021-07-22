@@ -97,13 +97,29 @@
 				DFFE25A726A996A0004B7585 /* Assets.xcassets */,
 				DFFE25A926A996A0004B7585 /* LaunchScreen.storyboard */,
 				DFFE25AC26A996A0004B7585 /* Info.plist */,
+				DFFE25BE26A9ECAB004B7585 /* TableViewInMain */,
+				DFFE25BF26A9ECE5004B7585 /* CategoryCollection */,
+			);
+			path = CarrotMarketAssignment;
+			sourceTree = "<group>";
+		};
+		DFFE25BE26A9ECAB004B7585 /* TableViewInMain */ = {
+			isa = PBXGroup;
+			children = (
 				DFFE25B426A9CF7E004B7585 /* ItemTableViewCell.swift */,
 				DFFE25B526A9CF7E004B7585 /* ItemTableViewCell.xib */,
+			);
+			path = TableViewInMain;
+			sourceTree = "<group>";
+		};
+		DFFE25BF26A9ECE5004B7585 /* CategoryCollection */ = {
+			isa = PBXGroup;
+			children = (
 				DFFE25B826A9E982004B7585 /* CategoryCollectionViewCell.swift */,
 				DFFE25B926A9E982004B7585 /* CategoryCollectionViewCell.xib */,
 				DFFE25BC26A9EA7E004B7585 /* CategoryCollectionViewController.swift */,
 			);
-			path = CarrotMarketAssignment;
+			path = CategoryCollection;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
